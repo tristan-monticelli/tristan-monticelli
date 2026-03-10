@@ -75,8 +75,3 @@ Je travaille sur des projets concrets qui combinent **IA locale**, **architectur
 
 <p align="center"><i>Ouvert aux alternances en IA, Data ou developpement logiciel.</i></p>
 
-<p align="center">
-  <img src="qr_github.png" alt="QR Code GitHub" width="150"/>
-  <br/>
-  <sub>Scannez pour acceder a mon GitHub</sub>
-</p>
