@@ -2,8 +2,8 @@
 <h3 align="center">Etudiant en IA & Data | La Plateforme, Marseille</h3>
 
 <p align="center">
-  <a href="mailto:TON_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/TON_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ton.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ton-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -73,4 +73,10 @@ Je travaille sur des projets concrets qui combinent **IA locale**, **architectur
 
 ---
 
-<p align="center"><i>Ouvert aux stages et alternances en IA, Data ou developpement logiciel.</i></p>
+<p align="center"><i>Ouvert aux alternances en IA, Data ou developpement logiciel.</i></p>
+
+<p align="center">
+  <img src="qr_github.png" alt="QR Code GitHub" width="150"/>
+  <br/>
+  <sub>Scannez pour acceder a mon GitHub</sub>
+</p>
