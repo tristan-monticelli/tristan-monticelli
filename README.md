@@ -18,13 +18,15 @@ Je travaille sur des projets concrets qui combinent **IA locale**, **architectur
 
 ### Projets
 
-| Projet | Stack | Description |
-|--------|-------|-------------|
-| [**SPS**](https://github.com/tristan-monticelli/sps) | Rust, WebAssembly, Web Components | Format d'image progressif invente de zero — codec DWT + rANS, 42 tests, plugin Vite |
-| [**Diesio**](https://github.com/tristan-monticelli/diesio) | Flutter, Rust (FFI), Python, Ollama | App de transcription temps reel avec IA locale, diarisation, 6 plateformes |
-| [**Bemuzzy**](https://github.com/tristan-monticelli/bemuzzy) | Next.js, Prisma, Claude AI, PostgreSQL | Chatbot coaching juridique pour entrepreneurs, veille Legifrance |
-| [**Pro-Zenon**](https://github.com/tristan-monticelli/pro-zenon) | Next.js, Prisma, Docker | Outil de prospection B2B — API SIRENE + Google Search, enrichissement Excel |
-| [**CRM-Zenon**](https://github.com/tristan-monticelli/crm-zenon) | Odoo 17, Docker, PostgreSQL | CRM complet avec 423+ modules OCA, backup automatise, deploye en prod |
+| Projet | Stack | Description | |
+|--------|-------|-------------|---|
+| [**SPS**](https://github.com/tristan-monticelli/sps) | Rust, WebAssembly, Web Components | Format d'image progressif invente de zero — codec DWT + rANS, 42 tests, plugin Vite | Public |
+| **Diesio** | Flutter, Rust (FFI), Python, Ollama | App de transcription temps reel avec IA locale, diarisation, 6 plateformes | Prive |
+| **Bemuzzy** | Next.js, Prisma, Claude AI, PostgreSQL | Chatbot coaching juridique pour entrepreneurs, veille Legifrance | Prive |
+| **Pro-Zenon** | Next.js, Prisma, Docker | Outil de prospection B2B — API SIRENE + Google Search, enrichissement Excel | Prive |
+| **CRM-Zenon** | Odoo 17, Docker, PostgreSQL | CRM complet avec 423+ modules OCA, backup automatise, deploye en prod | Prive |
+
+> Les projets prives sont disponibles sur demande (demo ou acces temporaire).
 
 ---
 
