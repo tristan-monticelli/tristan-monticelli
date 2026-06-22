@@ -64,14 +64,5 @@ Je travaille sur des projets concrets qui combinent **IA locale**, **architectur
 
 ---
 
-### En chiffres
-
-- **5** projets deployables en production
-- **~1 000** commits cumules
-- **Rust + Wasm + Flutter + Next.js** — du bas niveau au full-stack
-- **IA locale** (Whisper, Ollama, ONNX) — pas que des API
-
----
-
 <p align="center"><i>Ouvert aux alternances en IA, Data ou developpement logiciel.</i></p>
 
